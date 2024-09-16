@@ -1,4 +1,4 @@
-# Crie um programa que receba um número do usuário e informe se ele é positivo, negativo ou zer
+# Crie um programa que receba um número do usuário e informe se ele é positivo, negativo ou zero
 número = int(input("digite um número:")) 
 
 if número >= 0:
